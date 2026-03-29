@@ -2,6 +2,11 @@
 
 A beautiful, responsive family website showcasing family members, memories, and values. Built with modern HTML and CSS featuring a dark theme with warm accents.
 
+## Links
+
+- Repository: https://github.com/rameshwaryar77-lgtm/My-Family
+- Live Website: https://rameshwaryar77-lgtm.github.io/My-Family/
+
 ## Features
 
 ✨ **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
