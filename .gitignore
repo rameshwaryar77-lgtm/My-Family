@@ -23,5 +23,3 @@ venv/
 node_modules/
 npm-debug.log
 
-# Project specific
-.git/

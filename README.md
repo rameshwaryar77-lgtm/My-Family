@@ -13,7 +13,6 @@ A responsive family website to share members, values, and photo memories.
 My family/
 |-- index.html
 |-- photos.html
-|-- 404.html
 |-- .nojekyll
 |-- README.md
 `-- Photos/
